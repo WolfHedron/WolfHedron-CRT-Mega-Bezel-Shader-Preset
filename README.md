@@ -10,17 +10,29 @@
 * This is a Mega Bezel Shader Preset I made for myself, to use with RetroArch. For games you would have played on a CRT TV from the 90s.
 * Technacally it's a hybrid of a TV, and a Commador 64 monitor. I actually played a lot of my systems on a C64 monitor back then, due to the sharper and more colorful image.
 * The Mega Bezel Shader comes pre-installed with RetroArch, if it is not for some reason, you can get it from here - https://github.com/HyperspaceMadness/Mega_Bezel
-* In order to keep it simple, I only made two preset files, one if your using an N64 core (since the screen flips), and one for everything else.
 * I made this preset from looking at a lot of IRL pictures of TVs. In order to get it close to how I used to play these old games back then, in my bedroom at night.
-* This preset does not smooth out checkerboard dithering (example: Sonic 1 waterfalls). I tried to do this, but it results in text in some games (Mario World), being unreadable.
-  I wanted an all-in-one preset, so I gave up on it. This dosn't bother me personally. Since newer TVs broke this effect anyways, from what I rememeber.
+* View the screenshots below to see examples, and what other types of presets are included.
 
 ## What the ZIP includes
 * Readme Text File Instructions, In Each Folder
 * Shader Preset Files
 * Overlay Image (used in screenshots below), And It's Config File 
 
-## Screenshots
+## No Dither Smoothing & Dither Smoothing Presets
+![Preview Image No Smooth](pre_mbz_no_fix.jpg)
+- No Dither Smoothing
+
+![Preview Image Smooth](pre_mbz_fix.jpg)
+- Dither Smoothing
+
+## Flat Screen CRT Presets
+![Preview Image Flat No Smooth](pre_mbz_flat_no_fix.jpg)
+- Flat Screen - No Dither Smoothing
+
+![Preview Image Flat Smooth](pre_mbz_flat_fix.jpg)
+- Flat Screen - Dither Smoothing
+
+## Example Screenshots
 ![Preview Image NES](preset_preview_nes.png)
 - Super Mario Bros. - Nintendo - (Mesen Core)
 
